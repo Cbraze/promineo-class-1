@@ -24,7 +24,7 @@ public class Variables {
 		//concatenated with the value in the variable lastName ("Smith") resulting in the 
 		//following being printed to the console: Sam Smith
 		System.out.println(firstName + " " + lastName);
-
+		
 	}
 
 }
