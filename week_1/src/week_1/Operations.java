@@ -27,6 +27,7 @@ public class Operations {
 		System.out.println(5 % 2);
 		System.out.println(10 % 4);
 		System.out.println(10 % 2); //if 0, it is even
+		
 	}
 
 }
