@@ -1,0 +1,4 @@
+INFO: Mon Jul 23 06:47:14 MST 2018 - Hello
+WARNING: Mon Jul 23 06:47:14 MST 2018 - This is a warning
+ERROR: Mon Jul 23 06:47:14 MST 2018 - Oops, this is an error!
+INFO: Mon Jul 23 06:47:14 MST 2018 - Fatal error
