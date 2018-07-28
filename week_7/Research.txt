@@ -1,0 +1,3 @@
+Research wildcards in MySQL and write about why and how they are useful.
+
+Research all the operators that can be used in a SQL WHERE clause. Write what they do.
