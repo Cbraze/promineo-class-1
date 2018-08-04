@@ -1,0 +1,3 @@
+Look up 10 different SQL functions supported by MySQL that were not discussed in the video curriculum.
+Explain what they do and how they are used. 
+Write a query using each of the 10 functions. (10 queries, one for each function).
