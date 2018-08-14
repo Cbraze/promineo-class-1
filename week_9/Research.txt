@@ -1,0 +1,1 @@
+Research 10 different datatypes used in MySQL and write how they are used and what makes them unique.

@@ -1,6 +1,6 @@
 Write queries to address the following business needs.
 
-1. I want to know how many employees with each title were born after 1965.
+1. I want to know how many employees with each title were born after 1965-01-01.
 
 2. I want to know the average salary per title.
 
