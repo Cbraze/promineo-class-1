@@ -68,7 +68,7 @@ public class Menu {
 		}
 	}
 	
-	private void displayTeam() throws SQLException {
+	private void displayTeam() throws SQLException  {
 		System.out.print("Enter team id: ");
 		int id = Integer.parseInt(scanner.nextLine());
 		Team team = teamDao.getTeamById(id);
@@ -77,7 +77,7 @@ public class Menu {
 			System.out.println("\tMemberId: " + member.getMemberId() + " - Name: " + member.getFirstName() + " " + member.getLastName());
 		}
 	}
-	
+
 	private void createTeam() throws SQLException {
 		System.out.print("Enter new team name:");
 		String teamName = scanner.nextLine();

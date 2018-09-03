@@ -1,0 +1,9 @@
+This week you will be working together as a team to create a full CRUD application.
+Your console CRUD application will need to use a database to store all the application data.
+You need to have at least 3 entities.
+Users should be able to interact via the console (i.e. Scanner(System.in)))
+You can organize your code however you like, but I would encourage you to follow an organizational
+model similar to the one in last weeks video with packages dao, entity, and if you need, service.
+The project must be on GitHub. Use git to collaborate.
+Everyone will be graded on their individual contributions.
+This project is worth 200 points as it is taking the place of your research assignment and quiz.
