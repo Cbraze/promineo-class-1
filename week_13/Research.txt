@@ -1,0 +1,4 @@
+Look up 3 different web APIs online and describe 3 endpoints from each API.
+In your descriptions, include the URI/endpoint, the verb methods that can be sent 
+and a description of what happens with each different verb method sent.
+Include the links to each API in your assignment.
