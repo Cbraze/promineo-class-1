@@ -1,0 +1,4 @@
+This week, the team will create a new Maven project and create the endpoints defined in last week's homework for your final project.
+Each student should contribute equaly and students will be graded individually.
+For now, since we don't have the API connected to a database, just return mocked data from your controller methods (your endpoints).
+Mocked data means fake data, not from the database. You can use a collection, like a List, to store data while the server is running.

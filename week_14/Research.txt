@@ -1,0 +1,6 @@
+Complete the Spring tutorial found here: http://spring.io/guides/gs/rest-service/
+For your research, upload a document with screenshots of:
+	1. your code
+	2. sending 3 different requests to the greeting service and the responses via postman
+Write a paragraph describing what issues you encountered in this tutorial and how you overcame them.
+Write another paragraph about what you learned.
