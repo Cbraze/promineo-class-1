@@ -1,0 +1,3 @@
+This week, the team will create the service and repository layers of the application and create a database to back the API.
+Each student should contribute equaly and students will be graded individually.
+At the end of this week, the project should have full CRUD data flows for entities. Do not worry about setting up table relationships yet.

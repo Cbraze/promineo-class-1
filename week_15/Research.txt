@@ -1,0 +1,5 @@
+Review the following two resources:
+https://www.baeldung.com/spring-data-rest-relationships
+https://hellokoding.com/jpa-many-to-many-relationship-mapping-example-with-spring-boot-maven-and-mysql/
+
+Write a detailed explanation of how to set up one-to-one, one-to-many, and many-to-many relationships using spring data.
