@@ -1,0 +1,5 @@
+Create multiple (at least 2) variables of EACH primitive data type in Java.
+In addition to the primitive data types, write multiple (at least 2) String typed variables.
+Print the values to the console using System.out.println().
+Perform some operations on the variables you created to manipulate the data.
+Print the results of the operations to the console.

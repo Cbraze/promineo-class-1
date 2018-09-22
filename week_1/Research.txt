@@ -1,0 +1,3 @@
+Research the Git workflow and Java data types. 
+Write about what you learned in your research as though you are teaching someone else the concepts.
+Provied 5 sources used in your research.
