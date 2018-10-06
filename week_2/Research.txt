@@ -1,0 +1,2 @@
+Explain the different loops (For, while, do while) and give examples of when to use them.
+Provide links to at least three online resources you used to complete your research.

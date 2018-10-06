@@ -1,0 +1,4 @@
+Create a menu driven application with at least 4 options in addition to the exit option. 
+The user should be able to input which option he/she would like to choose.
+Each option should do something unique and include some conditionals (boolean logic).
+You can use if/else if/else statements or a switch statement.
