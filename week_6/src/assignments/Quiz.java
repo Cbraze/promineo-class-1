@@ -12,7 +12,7 @@ public class Quiz {
 	 * 	c. put
 	 * 	d. add
 	 */
-	 char answer1 = ' ';
+	 char answer1 = 'b';
 	  
 	/* 2. Which of the following correctly instantiate an instance of a StringBuilder?
 	 * 	a. StringBuilder = new StringBuilder();
@@ -20,7 +20,7 @@ public class Quiz {
 	 * 	c. StringBuilder() sb = new StringBuilder;
 	 * 	d. StringBuilder sb = new StringBuilder("Hello");
 	 */
-	 char answer2 = ' ';
+	 char answer2 = 'a';
 	  
 	/* 3. How would you pronounce `List<String>`?
 	 * 	a. String List
@@ -28,7 +28,7 @@ public class Quiz {
 	 * 	c. A bunch of Strings
 	 * 	d. String Array
 	 */
-	 char answer3 = ' '; 
+	 char answer3 = 'b'; 
 	 
 	/* 
 	 * 4. What can go in the `<>` of a List?
@@ -37,7 +37,7 @@ public class Quiz {
 	 * c. int, String, and custom classes
 	 * d. Any variable
 	 */ 
-	 char answer4 = ' ';
+	 char answer4 = 'c';
 	 
 	/* 
 	 * 5. Which of the following is a correct instantiation of a List of Employee?
@@ -46,7 +46,7 @@ public class Quiz {
 	 * c. Collection<Employee> list = new List<Employee>();
 	 * d. List<Employee> list = new ArrayList<Employee>();
 	 */ 
-	 char answer5 = ' ';
+	 char answer5 = 'b';
 	 
 	/* 
 	 * 6. Which of the following is best suited for storing customer names and unique customer IDs together in a collection?
@@ -55,7 +55,7 @@ public class Quiz {
 	 * c. Set
 	 * d. Map
 	 */ 
-	 char answer6 = ' ';
+	 char answer6 = 'd';
 	 
 	/* 
 	 * 7. Which method on the Set class adds an entry to the Set?
@@ -64,7 +64,7 @@ public class Quiz {
 	 * c. add
 	 * d. append
 	 */ 
-	 char answer7 = ' ';
+	 char answer7 = 'a';
 	 
 	/* 
 	 * 8. Which of the following is not a pillar of OOP?
@@ -73,7 +73,7 @@ public class Quiz {
 	 * c. Polymorphism
 	 * d. Abstraction
 	 */ 
-	 char answer8 = ' ';
+	 char answer8 = 'b';
 	 
 	/* 
 	 * 9. What does OOP stand for?
@@ -82,7 +82,7 @@ public class Quiz {
 	 * c. One Ounce Preference
 	 * d. Object Oriented Preference
 	 */ 
-	 char answer9 = ' ';
+	 char answer9 = 'a';
 	 
 	/* 
 	 * 10. What is the value of inheriting from a class?
@@ -91,7 +91,7 @@ public class Quiz {
 	 * c. There isn't much value.
 	 * d. You can hide data so it's not used improperly.
 	 */ 
-	 char answer10 = ' ';
+	 char answer10 = 'b';
 	 
 	/* 
 	 * 11. What is encapsulation?
@@ -100,7 +100,7 @@ public class Quiz {
 	 * c. Extending a super class.
 	 * d. Moving common code to a super class to avoid code duplication.
 	 */ 
-	 char answer11 = ' ';
+	 char answer11 = 'a';
 	 
 	/* 
 	 * 12. What can access a class field marked as `private`?
@@ -109,7 +109,7 @@ public class Quiz {
 	 * c. Only code within the class itself.
 	 * d. Only code within the same package.
 	 */ 
-	 char answer12 = ' ';
+	 char answer12 = 'c';
 	 
 	/* 
 	 * 13. Why do we mark class fields as `private` instead of `public`?
@@ -118,7 +118,7 @@ public class Quiz {
 	 * c. To hide our data.
 	 * d. To enforce encapsulation.
 	 */ 
-	 char answer13 = ' ';
+	 char answer13 = 'd';
 	 
 	/* 
 	 * 14. Which of the following is an example of a checked exception?
@@ -127,7 +127,7 @@ public class Quiz {
 	 * c. ArithmeticException
 	 * d. NumberFormatException
 	 */ 
-	 char answer14 = ' ';
+	 char answer14 = 'a';
 
 	/* 
 	 * 15. What keyword is used to allow a Class to implement an interface?
@@ -136,7 +136,7 @@ public class Quiz {
 	 * c. extends
 	 * d. implements
 	 */ 
-	 char answer15 = ' ';
+	 char answer15 = 'd';
 	 
 	/* 
 	 * 16. When would you use an interface instead of an abstract class?
@@ -145,7 +145,7 @@ public class Quiz {
 	 * c. When the code becomes too complex to put in an abstract class.
 	 * d. When you are building a dynamic application.
 	 */ 
-	 char answer16 = ' ';
+	 char answer16 = 'd';
 	 
 	/* 
 	 * 17. What does debugging mean in Eclipse?
@@ -154,7 +154,7 @@ public class Quiz {
 	 * c. Stepping through code one line at a time to see what is really happening.
 	 * d. nothing
 	 */ 
-	 char answer17 = ' ';
+	 char answer17 = 'c';
 	 
 	/* 
 	 * 18. When debugging, what does `step over` do?
@@ -163,7 +163,7 @@ public class Quiz {
 	 * c. Steps into the lines of the method on the current line.
 	 * d. Runs the method on the current line, but does not into the lines of the method.
 	 */ 
-	 char answer18 = ' ';
+	 char answer18 = 'd';
 	 
 	/* 
 	 * 19. What is a Unit Test?
@@ -172,7 +172,7 @@ public class Quiz {
 	 * c. Code that tests for syntax mistakes.
 	 * d. An application that checks code quality.
 	 */ 
-	 char answer19 = ' ';
+	 char answer19 = 'b';
 	 
 	/* 
 	 * 20. Which annotation is used to denote a unit test?
@@ -181,71 +181,71 @@ public class Quiz {
 	 * c. @UnitTest
 	 * d. @JUnit
 	 */ 
-	 char answer20 = ' ';
+	 char answer20 = 'd';
 	 
 	/**********************************************************************************
 	 * true or false: 2 points each
 	 **********************************************************************************/
 	 
 	// 21. You should use a StringBuilder instead of a String when your String will change multiple times.
-	boolean answer21 = ;
+	boolean answer21 = true;
 	 
 	// 22. A generic can take any Object data type.
-	boolean answer22 = ;
+	boolean answer22 = true;
 	
 	// 23. An entry to a Map has both a key and a value.
-	boolean answer23 = ;
+	boolean answer23 = true;
 	
 	// 24. `List<String> list = new List<String>();` is a correct instantiation of a List of String.
-	boolean answer24 = ;
+	boolean answer24 = true;
 	
 	// 25. `Map<Double, String>` the key is of type `Double`.
-	boolean answer25 = ;
+	boolean answer25 = true;
 	
 	// 26. The entries in a Set are ordered.
-	boolean answer26 = ;
+	boolean answer26 = false;
 	
 	// 27. A List is cannot contain duplicate entries.
-	boolean answer27 = ;
+	boolean answer27 = false;
 	
 	// 28. `public` members are accessible anywhere.
-	boolean answer28 = ;
+	boolean answer28 = true;
 	
-	// 29. `priave` members are accessible anywhere.
-	boolean answer29 = ;
+	// 29. `private` members are accessible anywhere.
+	boolean answer29 = false;
 	
 	// 30. Polymorphism is the ability for something to take many forms, or act differently in different forms.
-	boolean answer30 = ;
+	boolean answer30 = true;
 	
 	// 31. Class names should be written in the CamelCase convention.
-	boolean answer31 = ;
+	boolean answer31 = true;
 	
 	// 32. A super class inherits from a sub class.
-	boolean answer32 = ;
+	boolean answer32 = false;
 	
 	// 33. OOP stands for Object Oriented Preference
-	boolean answer33 = ;
+	boolean answer33 = false;
 	
 	// 34. Encapsulation is data hiding.
-	boolean answer34 = ;
+	boolean answer34 = true;
 	
 	// 35. Interfaces and Abstract Classes are the same thing.
-	boolean answer35 = ;
+	boolean answer35 = false;
 	
 	// 36. Creating an interface to inherit will allow for more flexible and maintainable code.
-	boolean answer36 = ;
+	boolean answer36 = true;
 	
 	// 37. @Testing declares a method as a unit test.
-	boolean answer37 = ;
+	boolean answer37 = false;
 	
 	// 38. `assertEquals(var, 10);` will cause the test to pass if var is 9.
-	boolean answer38 = ;
+	boolean answer38 = false;
 	
 	// 39. Debugging allows you to step through code one line at a time.
-	boolean answer39 = ;
+	boolean answer39 = true;
 	
 	// 40. Unit Tests are an important industry standard.
-	boolean answer40 = ;
+	boolean answer40 = true;
 	
 	
 	/**********************************************************************************
@@ -253,15 +253,16 @@ public class Quiz {
 	 **********************************************************************************/
 	
 	/* 41. What does TDD stand for and what does it entail?
-	 *  
+	 *  TDD is test driven development. It entails test-first development which means the developer writes an automated test before 
+	 *	actually writing the prodcution code to make sure the colde is tested and working properly.
 	 */
 	
 	/* 42. When would you use an interface?
-	 *  
+	 *  Java does not allow multiple inheritcance in a class and by using an interface it can achieve multiple inheritance.
 	 */
 	
 	/* 43. What are the four pillars of OOP?
-	 *  
+	 *  abstraction, polymophism, inheritance, encapsulation
 	 */
 	
 	/* 44. Write a method named createStringCount that takes an int and returns a String that counts from zero to the
